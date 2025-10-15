@@ -1,4 +1,4 @@
-#***🧠 Alzheimer MRI Classification (CNN)***
+# ***🧠 Alzheimer MRI Classification (CNN)***
 
 # What the project does?
 
@@ -9,3 +9,7 @@ This project focuses on categorizing Alzheimer’s disease MRI scans into variou
 Detecting Alzheimer’s disease at an early stage significantly helps doctors and researchers deliver timely treatment and monitor the progression of the condition. This project highlights how deep learning technology can streamline MRI analysis, offering greater speed and accuracy compared to conventional manual techniques.
 
 # APP
+
+![App Screenshot](alzheimer1.png)
+![App Screenshot](alzheimer2.png)
+
